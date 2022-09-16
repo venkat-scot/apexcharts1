@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apexcharts1/static/css/main.073c9b0a.css",
+    "main.js": "/apexcharts1/static/js/main.657c0a90.js",
+    "static/js/787.f6fbe5c4.chunk.js": "/apexcharts1/static/js/787.f6fbe5c4.chunk.js",
+    "index.html": "/apexcharts1/index.html",
+    "main.073c9b0a.css.map": "/apexcharts1/static/css/main.073c9b0a.css.map",
+    "main.657c0a90.js.map": "/apexcharts1/static/js/main.657c0a90.js.map",
+    "787.f6fbe5c4.chunk.js.map": "/apexcharts1/static/js/787.f6fbe5c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.657c0a90.js"
+  ]
+}
